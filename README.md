@@ -2,25 +2,22 @@
 
 ## Description 📝
 
-DataAi is a macOS application that allows you to upload multiple CSV or XLSM files, select specific columns, and then download a combined CSV file.
+DataAi is a web application hosted on Streamlit that allows you to upload multiple CSV or XLSM files, select specific columns, and then download a combined CSV file. Access the app [here](https://data-ai.streamlit.app/).
 
 ## Features 🚀
 
 - Upload multiple CSV or XLSM files 📤
 - Select specific columns from each file 📋
 - Download a combined CSV file 📥
+- Group data by a selected keyword 🔑
 
-## Installation 💻
+## How to Use 🛠
 
-1. Download the `DataAi.app` file.
-2. Drag and drop it into your Applications folder.
-
-## Usage 🛠
-
-1. Open the DataAi app.
+1. Open DataAi by navigating to [https://data-ai.streamlit.app/](https://data-ai.streamlit.app/).
 2. Upload your CSV or XLSM files.
 3. Select the columns you want to include.
-4. Click "Combine and Download" to get your combined CSV file.
+4. Optionally, select a keyword for grouping the data.
+5. Click "Combine and Download" to get your combined CSV file.
 
 ## License 📄
 
